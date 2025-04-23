@@ -1,5 +1,9 @@
-📦 Olist E-Commerce Store Analysis (Excel | Power BI | Tableau)
+🛍️ E-commerce Olist Store Analysis
 
+	• Tools Used: Excel, Power BI, Tableau
+	• Domain: E-commerce | Retail Analytics | Customer Insights
+	• Techniques: Data Transformation, Sales Funnel Analysis, Customer Segmentation, RFM Analysis, Dashboard Design
+ 
 This project showcases a comprehensive analysis of the Olist e-commerce dataset using three tools: Excel, Power BI, and Tableau. Each dashboard uncovers key business insights related to sales performance, customer behavior, product trends, and shipping efficiency.
 
 🔧 Tools Used:-
@@ -52,6 +56,14 @@ All dashboards consistently highlight that:
 	• Credit card is the most preferred payment method.
 	• São Paulo is the most active and profitable region.
 	• Categories like household goods and personal care lead in volume and revenue.
+
+
+📎 What I Learned:
+
+	• Understanding customer behavior through sales and delivery data.
+	• Segmenting products and customers for strategic marketing insights.
+	• Creating actionable dashboards for order trends, payment types, and shipping delays.
+	• Communicating patterns that can influence business logistics and customer service.
 
 These dashboards collectively provide a full 360° view of Olist’s operations, helping identify what drives customer satisfaction, sales, and logistics efficiency.
 

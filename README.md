@@ -6,12 +6,6 @@
  
 This project showcases a comprehensive analysis of the Olist e-commerce dataset using three tools: Excel, Power BI, and Tableau. Each dashboard uncovers key business insights related to sales performance, customer behavior, product trends, and shipping efficiency.
 
-🔧 Tools Used:-
-
-	• Excel: For pivot analysis, KPI summary, and correlation insights.
-	• Power BI: Interactive dashboard with drill-down features across product categories, geographies, and time.
-	• Tableau: Engaging visual storytelling with filters, heatmaps, and dynamic visuals.
-
 📌 Key Metrics & Highlights:-
 
 	• Over 44,000–48,000 orders received a perfect review score of 5, mostly paid via credit card.

@@ -56,9 +56,6 @@ All dashboards consistently highlight that:
 These dashboards collectively provide a full 360° view of Olist’s operations, helping identify what drives customer satisfaction, sales, and logistics efficiency.
 
 
-![Joins](https://github.com/user-attachments/assets/9f97b2df-35c7-4596-88af-3e56b83edc3d)
-
-
 ![Excel Ecommerce](https://github.com/user-attachments/assets/bd748f60-cbea-492e-98c1-d4123376f538)
 
 
